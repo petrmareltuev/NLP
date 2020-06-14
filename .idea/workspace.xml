@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="975b66b1-b218-4e09-95bf-ba712a3bf1a4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../nlp4is_word_embeddings" />
+  </component>
+  <component name="JupyterTrust" id="ab95fe3a-8b2c-4ed7-bd6f-6518daf71719" />
+  <component name="ProjectId" id="1XyURokaGoBCKQUlxwz3jvs8fSs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ontology/Ontology.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Scripts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Ontology">
+    <configuration name="Homework_1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="NLP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Homework_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NLP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Homework_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NLP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab3/Homework_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Homework_3_savemodel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NLP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab3/Homework_3_savemodel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lection_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NLP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lection_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="NLP" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NLP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/smth.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ontology" type="PythonConfigurationType" factoryName="Python">
+      <module name="NLP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="/usr/bin/python3.5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Ontology" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Ontology/Ontology.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="NLP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="NLP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="smth" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="NLP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/smth.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Ontology" />
+      <item itemvalue="Python.Unit1" />
+      <item itemvalue="Python.smth" />
+      <item itemvalue="Python.Homework_1" />
+      <item itemvalue="Python.NLP" />
+      <item itemvalue="Python.Lection_3" />
+      <item itemvalue="Python.Homework_2" />
+      <item itemvalue="Python.Homework_3_savemodel" />
+      <item itemvalue="Python.Homework_3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Homework_3" />
+        <item itemvalue="Python.Homework_3_savemodel" />
+        <item itemvalue="Python.Homework_2" />
+        <item itemvalue="Python.NLP" />
+        <item itemvalue="Python.Lection_3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="975b66b1-b218-4e09-95bf-ba712a3bf1a4" name="Default Changelist" comment="" />
+      <created>1582017823235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582017823235</updated>
+      <workItem from="1582017825785" duration="3752000" />
+      <workItem from="1582022484778" duration="199000" />
+      <workItem from="1582022703081" duration="194000" />
+      <workItem from="1582022913809" duration="13420000" />
+      <workItem from="1582111955988" duration="13706000" />
+      <workItem from="1582182586625" duration="6471000" />
+      <workItem from="1582190781802" duration="296000" />
+      <workItem from="1582732816715" duration="27441000" />
+      <workItem from="1582786870817" duration="249000" />
+      <workItem from="1582787265768" duration="5633000" />
+      <workItem from="1583013458667" duration="1122000" />
+      <workItem from="1583057566072" duration="9879000" />
+      <workItem from="1583146279841" duration="4517000" />
+      <workItem from="1584026889715" duration="102000" />
+      <workItem from="1589774498008" duration="2836000" />
+      <workItem from="1589767679483" duration="7824000" />
+      <workItem from="1590031145704" duration="3348000" />
+      <workItem from="1590036041799" duration="8101000" />
+      <workItem from="1590454356965" duration="793000" />
+      <workItem from="1590455990969" duration="22328000" />
+      <workItem from="1590556347374" duration="2076000" />
+      <workItem from="1590564671705" duration="8650000" />
+      <workItem from="1590648978342" duration="3431000" />
+      <workItem from="1591280122807" duration="597000" />
+      <workItem from="1591612312016" duration="591000" />
+      <workItem from="1591763037503" duration="1034000" />
+      <workItem from="1591783583762" duration="793000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="627" y="80" width="1071" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591763871246">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="627" y="80" width="1071" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1591763871246" />
+    <state x="521" y="80" width="940" height="915" key="CommitChangelistDialog2" timestamp="1590556510004">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="521" y="80" width="940" height="915" key="CommitChangelistDialog2/65.24.1855.1056@65.24.1855.1056" timestamp="1590556510004" />
+    <state width="1121" height="568" key="DebuggerActiveHint" timestamp="1590468906072">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1121" height="568" key="DebuggerActiveHint/65.24.1855.1056@65.24.1855.1056" timestamp="1590468906072" />
+    <state x="785" y="344" width="424" height="482" key="FileChooserDialogImpl" timestamp="1591784817403">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="785" y="344" width="424" height="482" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1591784817403" />
+    <state width="1809" height="243" key="GridCell.Tab.0.bottom" timestamp="1590652418785">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="243" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1590652418785" />
+    <state width="1809" height="243" key="GridCell.Tab.0.center" timestamp="1590652418784">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="243" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1590652418784" />
+    <state width="1809" height="243" key="GridCell.Tab.0.left" timestamp="1590652418783">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="243" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1590652418783" />
+    <state width="1809" height="243" key="GridCell.Tab.0.right" timestamp="1590652418784">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="243" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1590652418784" />
+    <state width="1809" height="365" key="GridCell.Tab.1.bottom" timestamp="1590481078446">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="365" key="GridCell.Tab.1.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1590481078446" />
+    <state width="1809" height="365" key="GridCell.Tab.1.center" timestamp="1590481078444">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="365" key="GridCell.Tab.1.center/65.24.1855.1056@65.24.1855.1056" timestamp="1590481078444" />
+    <state width="1809" height="365" key="GridCell.Tab.1.left" timestamp="1590481078443">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="365" key="GridCell.Tab.1.left/65.24.1855.1056@65.24.1855.1056" timestamp="1590481078443" />
+    <state width="1809" height="365" key="GridCell.Tab.1.right" timestamp="1590481078445">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="365" key="GridCell.Tab.1.right/65.24.1855.1056@65.24.1855.1056" timestamp="1590481078445" />
+    <state x="701" y="290" key="SettingsEditor" timestamp="1590565380152">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="701" y="290" key="SettingsEditor/65.24.1855.1056@65.24.1855.1056" timestamp="1590565380152" />
+    <state width="928" height="542" key="XDebugger.FullValuePopup" timestamp="1590048844773">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="928" height="542" key="XDebugger.FullValuePopup/65.24.1855.1056@65.24.1855.1056" timestamp="1590048844773" />
+    <state x="808" y="295" width="672" height="678" key="search.everywhere.popup" timestamp="1590459715085">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="808" y="295" width="672" height="678" key="search.everywhere.popup/65.24.1855.1056@65.24.1855.1056" timestamp="1590459715085" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/NLP$Unit_1__1_.coverage" NAME="Unit_1 (1) Coverage Results" MODIFIED="1582030437163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/NLP$Homework_1.coverage" NAME="Homework_1 Coverage Results" MODIFIED="1583013636510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NLP$Lection_3.coverage" NAME="Lection_3 Coverage Results" MODIFIED="1582736721686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/NLP$NLP_Homework.coverage" NAME="Unit_2 Coverage Results" MODIFIED="1582121738353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NLP_Homework$Unit_2.coverage" NAME="Unit_2 Coverage Results" MODIFIED="1582030397539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/NLP$P.coverage" NAME="P Coverage Results" MODIFIED="1582114895863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/NLP$Unit_1.coverage" NAME="Unit_1 Coverage Results" MODIFIED="1582744851881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NLP$Homework_2.coverage" NAME="Homework_2 Coverage Results" MODIFIED="1583148169532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/NLP_Homework$NLP_Homework.coverage" NAME="NLP_Homework Coverage Results" MODIFIED="1582026668001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NLP$Homework_3_savemodel.coverage" NAME="Homework_3_savemodel Coverage Results" MODIFIED="1590478284410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab3" />
+    <SUITE FILE_PATH="coverage/NLP$New.coverage" NAME="Homework_2 Coverage Results" MODIFIED="1582763145510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/NLP$NLP.coverage" NAME="NLP Coverage Results" MODIFIED="1582754319110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NLP$Homework_3.coverage" NAME="Homework_3 Coverage Results" MODIFIED="1590650310849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab3" />
+    <SUITE FILE_PATH="coverage/NLP$Homework_4.coverage" NAME="Homework_4 Coverage Results" MODIFIED="1590565403624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab4" />
+    <SUITE FILE_PATH="coverage/NLP_Homework$Unit1.coverage" NAME="NLP Coverage Results" MODIFIED="1582033500833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NLP_Homework$Lection1.coverage" NAME="Lection_2 Coverage Results" MODIFIED="1582030276309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/NLP$smth.coverage" NAME="smth Coverage Results" MODIFIED="1583014522372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
